@@ -37,7 +37,5 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 ## License
 Specify your license here, e.g., MIT License.
 
-## Acknowledgements
-- Thanks to Dr. Sriman Kothuri and the team at SR University for their guidance.
-- Inspired by related research in deep learning for medical imaging.
+
 
