@@ -30,7 +30,8 @@ The CNN model achieves strong classification performance with high accuracy and 
 
 ![Brain Tumor Detection CNN Illustration] <img width="652" height="1134" alt="image" src="https://github.com/user-attachments/assets/8a67ca7d-197b-4774-a76c-32098bd70ee8" />
 
-
+##For a detailed explanation of the project, methodologies, and insights, check out my Medium article:
+Brain Tumor Detection Using CNN - Medium Article
 ## Contributing
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request with your improvements.
 
