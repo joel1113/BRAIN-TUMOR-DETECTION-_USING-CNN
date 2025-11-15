@@ -28,7 +28,8 @@ The model is trained on labeled MRI brain scan images categorized into four clas
 ## Results
 The CNN model achieves strong classification performance with high accuracy and F1-scores, supported by confusion matrix visualizations and tumor heatmap overlays for interpretability.
 
-![Brain Tumor Detection CNN Illustration](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/3189cb2c-cc09-441f-ac86-0f7940cd299d.png)
+![Brain Tumor Detection CNN Illustration] <img width="652" height="1134" alt="image" src="https://github.com/user-attachments/assets/8a67ca7d-197b-4774-a76c-32098bd70ee8" />
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request with your improvements.
